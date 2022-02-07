@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+}
+div {
+    height: 20em;
+    width: 20em;
+    border: solid black 1px;
+    margin: 0 auto;
+    align-self: center;
+}
